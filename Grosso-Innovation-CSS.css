@@ -1,5 +1,6 @@
-body {
+head {
     font-family: helvetica;
+    display:block;
 }
 
 .topnav {
@@ -52,4 +53,8 @@ li {
     font-size: 12px;
     font-style: italic;
     font-weight: bold;
+}
+
+body {
+  background-color: blue;
 }
