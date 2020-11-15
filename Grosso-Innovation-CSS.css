@@ -2,10 +2,12 @@ body {
     font-family: helvetica;
 }
 .topnav {
-  backgroun-color: grey;
+  background-color: grey;
   overflow: hidden;
 }
 .topnav a {
+  background-color: inherit;
+  color: #e3daff;
   float: right;
   text-align: center;
   padding: 14px 16px;
