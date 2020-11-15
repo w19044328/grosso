@@ -1,11 +1,31 @@
 body {
     font-family: helvetica;
 }
+.topnav {
+  backgroun-color: grey;
+  overflow: hidden;
+}
+.topnav a {
+  float: right;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 17px;
+}
 
-h1 {
+.topnav a:hover {
+  background-color: #43464b;
+  color: white
+}
+
+.topnave a.active {
+  background-colour: #43464b;
+  color: #dcedc8;
+}
+.header {
   font-style: italic;
   font-weight: bold;
-  color: green;
+  color: #bedebc;
+  background-color: #43464b;
 }
 
 ul {
