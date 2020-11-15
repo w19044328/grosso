@@ -1,16 +1,17 @@
-.h1 {
+body {
+    font-family: helvetica;
+}
+
+h1 {
   font-style: italic;
   font-weight: bold;
   color: green;
 }
 
-body {
-    font-family: helvetica;
-}
-
 ul {
     font-family: monospace;
 }
+
 li {
     list-style: circle;
 }
