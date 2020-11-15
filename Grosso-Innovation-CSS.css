@@ -1,6 +1,10 @@
 body {
     font-family: helvetica;
 }
+
+atompanel {
+  color: black;
+}
 .topnav {
   background-color: grey;
   overflow: hidden;
