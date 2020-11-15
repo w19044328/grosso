@@ -4,9 +4,11 @@ body {
 
 .topnav {
   display: block;
+  background-color: #e3daff;
   overflow: hidden;
   text-decoration: none;
 }
+
 .topnav a {
   background-color: inherit;
   color: #e3daff;
