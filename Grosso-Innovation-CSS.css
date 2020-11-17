@@ -54,7 +54,7 @@ div {
   height: 150px;
   text-decoration: none;
   font-size: 30px;
-  color: none;
+  color: #43464b;
   border-radius: 0 5px 5px 0;
 }
 
@@ -76,22 +76,23 @@ div {
   top: 400px;
   background-color: white;
 }
-#PartyFood {
-  top: 500px;
-  background-color: #d1b3e3;
-}
 
 #Beverages {
-  top: 800px;
+  top: 500px;
   background-color: #c4f2f5;
 }
 
-#Bakery {
+#PartyFood {
   top: 600px;
+  background-color: #d1b3e3;
+}
+
+#Bakery {
+  top: 700px;
   background-color: #e3c1b3;
 }
 
 #Cupboards {
-  top: 700px;
+  top: 800px;
   background-color: #e3b3b6;
 }
