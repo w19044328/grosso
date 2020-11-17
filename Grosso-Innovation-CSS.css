@@ -43,13 +43,13 @@ body {
 
 #mySideNav a {
   position: absolute;
-  left: -200px;
-  transition: 0.5s;
+  left: -20px;
+  transition: 0.3s;
   padding: 15px;
   width: 200px;
   text-decoration: none;
   font-size: 50px;
-  color: #43464b;
+  color: blue;
   border-radius: 0 5px 5px 0;
 }
 
