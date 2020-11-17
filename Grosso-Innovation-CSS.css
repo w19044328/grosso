@@ -37,18 +37,6 @@ nav {
   background-color: #43464b;
 }
 
-ul {
-    font-family: monospace;
-}
-
-li {
-    list-style: circle;
-}
-
-.list {
-    list-style: square;
-}
-
 body {
   background-color: #ECECEC;
 }
