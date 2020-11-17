@@ -3,7 +3,7 @@ head {
     display:block;
 }
 
-.topnav {
+nav {
   display: block;
   background-color: #43464b;
   overflow: hidden;
@@ -26,7 +26,7 @@ head {
   text-decoration: none;
 }
 
-.topnave a.active {
+.topnav a.active {
   background-colour: #43464b;
   color: #dcedc8;
 }
