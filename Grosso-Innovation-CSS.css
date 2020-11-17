@@ -72,6 +72,10 @@ div {
   background-color: #c4dff5;
 }
 
+#Freezers {
+  top: 550px;
+  background-color: white;
+}
 #PartyFood {
   top: 550px;
   background-color: #d1b3e3;
