@@ -49,12 +49,52 @@ li {
     list-style: square;
 }
 
-#date {
-    font-size: 12px;
-    font-style: italic;
-    font-weight: bold;
-}
-
 body {
   background-color: #ECECEC;
+}
+
+#mySideNav a {
+  position: absolute;
+  left: -200px;
+  transition: 0.5s;
+  padding: 15px;
+  width: 200px;
+  text-decoration: none;
+  font-size: 50px;
+  color: #43464b;
+  border-radius: 0 5px 5px 0;
+}
+
+#mySideNav a:hover {
+  left: 0;
+}
+
+#FreshFood {
+  top: 20px
+  background-color: #c4f5d7
+}
+
+#Fridges {
+  top: 120px
+  background-color: #c4dff5
+}
+
+#PartyFood {
+  top: 320px
+  background-color: #d1b3e3
+}
+
+#Bakery {
+  top: 320px
+  background-color: #e3c1b3
+}
+
+#Cupboards {
+  top: 420px
+  background-color: #e3b3b6
+}
+
+#Beverages {
+  top: 520px
+  background-color: #c4f2f5
 }
