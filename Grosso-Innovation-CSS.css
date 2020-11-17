@@ -77,21 +77,21 @@ div {
   background-color: white;
 }
 #PartyFood {
-  top: 550px;
+  top: 700px;
   background-color: #d1b3e3;
 }
 
 #Bakery {
-  top: 700px;
+  top: 850px;
   background-color: #e3c1b3;
 }
 
 #Cupboards {
-  top: 850px;
+  top: 1000px;
   background-color: #e3b3b6;
 }
 
 #Beverages {
-  top: 1000px;
+  top: 1250px;
   background-color: #c4f2f5;
 }
