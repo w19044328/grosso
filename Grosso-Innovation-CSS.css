@@ -63,35 +63,35 @@ div {
 }
 
 #FreshFood {
-  top: 250px;
+  top: 200px;
   background-color: #c4f5d7;
 }
 
 #Fridges {
-  top: 400px;
+  top: 350px;
   background-color: #c4dff5;
 }
 
 #Freezers {
-  top: 550px;
+  top: 500px;
   background-color: white;
 }
 #PartyFood {
-  top: 700px;
+  top: 650px;
   background-color: #d1b3e3;
 }
 
 #Bakery {
-  top: 850px;
+  top: 800px;
   background-color: #e3c1b3;
 }
 
 #Cupboards {
-  top: 1000px;
+  top: 950px;
   background-color: #e3b3b6;
 }
 
 #Beverages {
-  top: 1250px;
+  top: 1100px;
   background-color: #c4f2f5;
 }
