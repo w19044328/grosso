@@ -41,6 +41,10 @@ body {
   background-color: #ECECEC;
 }
 
+div {
+  background-color: inherit;
+}
+
 #mySideNav a {
   position: absolute;
   left: -20px;
