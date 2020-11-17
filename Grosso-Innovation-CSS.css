@@ -47,10 +47,10 @@ div {
 
 #mySideNav a {
   position: absolute;
-  left: -100px;
+  left: -80px;
   transition: 0.5s;
-  padding: 10px;
-  width: 500px;
+  padding: 20px;
+  width: 300px;
   height: 250px;
   text-decoration: none;
   font-size: 30px;
@@ -63,31 +63,31 @@ div {
 }
 
 #FreshFood {
-  top: 250px;
+  top: 200px;
   background-color: #c4f5d7;
 }
 
 #Fridges {
-  top: 750px;
+  top: 500px;
   background-color: #c4dff5;
 }
 
 #PartyFood {
-  top: 1250px;
+  top: 800px;
   background-color: #d1b3e3;
 }
 
 #Bakery {
-  top: 1750px;
+  top: 1100px;
   background-color: #e3c1b3;
 }
 
 #Cupboards {
-  top: 2500px;
+  top: 1400px;
   background-color: #e3b3b6;
 }
 
 #Beverages {
-  top: 3250px;
+  top: 1700px;
   background-color: #c4f2f5;
 }
