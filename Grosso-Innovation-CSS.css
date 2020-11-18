@@ -97,7 +97,9 @@ div {
   background-color: #e3b3b6;
 }
 
-.button {
+.shuffle {
+  top: 300px;
+  margin-left: 300px;
   background-color: black;
   colour: white;
 }
