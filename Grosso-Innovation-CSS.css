@@ -96,3 +96,8 @@ div {
   top: 800px;
   background-color: #e3b3b6;
 }
+
+.button {
+  background-color: black;
+  colour: white;
+}
