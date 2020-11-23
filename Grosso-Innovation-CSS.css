@@ -47,17 +47,14 @@ body {
   background-color: #ECECEC;
 }
 
+div {
+  background-color: inherit;
+}
 
 .fullLogo {
   top: 100px;
   width: 75%;
   height: 75%;
-}
-
-#logo {
-  width: 50%;
-  height: 50%;
-  object-fit: contain;
 }
 
 div {
