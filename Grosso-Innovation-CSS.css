@@ -43,14 +43,15 @@ nav {
   align-content: flex-start;
 }
 
+body {
+  background-color: #ECECEC;
+}
+
+
 .fullLogo {
   top: 100px;
   width: 75%;
   height: 75%;
-}
-
-body {
-  background-color: #ECECEC;
 }
 
 #logo {
