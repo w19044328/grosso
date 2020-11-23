@@ -47,6 +47,12 @@ body {
   background-color: #ECECEC;
 }
 
+#logo {
+  width: 50%;
+  height: 50%;
+  object-fit: contain;
+}
+
 div {
   background-color: inherit;
 }
