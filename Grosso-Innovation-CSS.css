@@ -39,7 +39,7 @@ nav {
 }
 
 .homepageLogo {
-  align: left;
+  align-content: flex-start;
 }
 
 body {
