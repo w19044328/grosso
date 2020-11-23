@@ -21,7 +21,7 @@ nav {
   text-decoration: none;
 }
 
-.topnav a:hover {
+.topnav a.hover {
   background-color: #eedac2;
   color: black;
   text-decoration: none;
