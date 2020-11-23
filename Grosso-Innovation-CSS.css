@@ -38,6 +38,10 @@ nav {
   background-color: #43464b;
 }
 
+.homepageLogo {
+  align: left;
+}
+
 body {
   background-color: #ECECEC;
 }
