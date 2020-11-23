@@ -5,7 +5,7 @@ head {
 
 nav {
   display: block;
-  background-color: #eedac2;
+  background-color: #d2b48c;
   overflow: hidden;
   text-decoration: none;
 }
@@ -29,14 +29,14 @@ nav {
 }
 
 .topnav a.active {
-  background-colour: #cc9e7f;
+  background-colour: #d2b48c;
   color: #dcedc8;
 }
 .header {
   font-style: italic;
   font-weight: bold;
   color: black;
-  background-color: #eedac2;
+  background-color: #d2b48c;
 }
 
 .homepageLogo {
