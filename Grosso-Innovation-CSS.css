@@ -1,5 +1,5 @@
 head {
-    font-family: helvetica;
+    font-family: "Andale Mono", sans-serif;
     display:block;
 }
 
@@ -12,11 +12,12 @@ nav {
 
 .topnav a {
   background-color: inherit;
-  color: #e3daff;
+  color: black;
   float: right;
   text-align: center;
   padding: 15px 15px;
   font-size: 17px;
+  font-family: "Andale Mono", sans-serif;
   text-decoration: none;
 }
 
