@@ -46,9 +46,8 @@ body {
 div
 
 .fullLogo {
+  display:block;
   width: 200px;
-  text-align: center;
-  display: block;
   margin-left: auto;
   margin-right: auto;
   padding-top: 100px;
