@@ -38,7 +38,7 @@ nav {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  boarder: black;
+  border: #d2b48c;
   margin-top: 60px;
   font-size: 14px;
   font-family: "Andale Mono", sans-serif;
@@ -54,7 +54,7 @@ body {
   width: 180px;
   margin-left: auto;
   margin-right: auto;
-  padding-top: 70px;
+  margin-top: 70px;
 }
 
 #mySideNav a {
