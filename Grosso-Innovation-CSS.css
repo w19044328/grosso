@@ -39,18 +39,6 @@ nav {
   background-color: #d2b48c;
 }
 
-.logoOnly {
-  width: 200px;
-  text-align: left;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.homepageLogo {
-  align-content: flex-start;
-}
-
 body {
   background-color: #ECECEC;
 }
