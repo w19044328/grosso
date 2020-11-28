@@ -59,14 +59,12 @@ div {
 }
 
 .fullLogo {
+  width: 200px;
+  text-align: center;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50px;
-}
-
-div {
-  background-color: inherit;
+  padding-top: 100px;
 }
 
 #mySideNav a {
