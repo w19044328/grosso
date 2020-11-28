@@ -43,9 +43,7 @@ body {
   background-color: #ECECEC;
 }
 
-div {
-  background-color: inherit;
-}
+div
 
 .fullLogo {
   width: 200px;
