@@ -33,6 +33,11 @@ nav {
   color: #dcedc8;
 }
 
+.glogo {
+  width: 50px;
+  margin-left:auto;
+}
+
 .searchBar input[type=text] {
   float: center;
   display: block;
