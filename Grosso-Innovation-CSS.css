@@ -1,6 +1,6 @@
 head {
     font-family: "Andale Mono", sans-serif;
-    display:block;
+    display: block;
 }
 
 nav {
@@ -37,7 +37,7 @@ nav {
   width: 25px;
   text-align: left;
   float: left;
-  padding: 15px;
+  margin-left: -5px;
 }
 
 .searchBar input[type=text] {
