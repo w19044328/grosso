@@ -37,7 +37,7 @@ body {
   background-color: #ECECEC;
 }
 
-.fulllogo a {
+#fulllogo {
   display: block;
   width: 50%;
   margin-left: auto;
