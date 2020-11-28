@@ -52,10 +52,10 @@ div {
 }
 
 .fullLogo {
-  width: 50px;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50px;
 }
 
 div {
