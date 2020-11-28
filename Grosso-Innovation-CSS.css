@@ -36,6 +36,8 @@ nav {
 .searchBar input[type=text] {
   float: center;
   display: block;
+  margin-left: auto;
+  margin-right: auto;
   padding: 6px;
   boarder: black;
   margin-top: 60px;
