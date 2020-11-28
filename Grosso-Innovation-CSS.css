@@ -40,10 +40,11 @@ nav {
 }
 
 .logoOnly {
+  width: 200px;
+  text-align: left;
   display: block;
   margin-left: auto;
-  margin-left: auto;
-  width: 50px;
+  margin-right: auto;
 }
 
 .homepageLogo {
