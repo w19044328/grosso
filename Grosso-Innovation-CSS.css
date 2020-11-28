@@ -35,7 +35,7 @@ nav {
 
 .glogo {
   width: 25px;
-  align-items: left;
+  text-align: left;
 }
 
 .searchBar input[type=text] {
