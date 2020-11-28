@@ -52,7 +52,7 @@ div {
 }
 
 .fullLogo {
-  width: 200px;
+  width: 50px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -120,8 +120,9 @@ div {
   colour: white;
 }
 
-.logo {
-  top: 400px;
-  margin-left: 300px;
-  color: black;
+.logoOnly {
+  display: block;
+  margin-left: auto;
+  margin-left: auto;
+  width: 50px;
 }
