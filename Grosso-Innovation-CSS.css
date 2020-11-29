@@ -83,13 +83,13 @@ body {
 }
 
 .sidenav a.active {
-  background-color: white;
+  background-color: #ECECEC;
   color: black;
   text-decoration: underline;
   }
 
 .sidenav a:hover:not(.active) {
-  background-color: white;
+  background-color: #ECECEC;
   color: black;
   text-decoration: underline;
 }
