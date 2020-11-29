@@ -63,6 +63,46 @@ body {
   margin-top: 35px;
 }
 
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  background-color: inherit;
+  overflow: auto;
+}
+
+.sidenav a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.sidenav a.active {
+  background-color: white;
+  color: black;
+  text-decoration: underline;
+  }
+
+.sidenav a:hover:not(.active) {
+  background-color: white;
+  color: black;
+  text-decoration: underline;
+}
+
+div.content {
+  margin-left: 200px;
+  padding: 1px 16px;
+  height: 1000px;
+}
+
+@media screen and (max-width: 400px) {
+  .sidebar a {
+    text-align: center;
+    float: none;
+}
+
 #mySideNav a {
   position: absolute;
   left: -200px;
