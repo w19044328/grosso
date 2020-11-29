@@ -3,10 +3,10 @@ head {
     display: block;
 }
 
-nav {
+.topnav {
   display: block;
   position: fixed;
-  padding: 5px;
+  padding: 6px;
   width: 100%;
   background-color: #d2b48c;
   overflow: hidden;
