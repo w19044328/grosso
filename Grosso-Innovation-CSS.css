@@ -55,11 +55,8 @@ body {
   background-color: #ECECEC;
 }
 
-#homepageContent {
-  margin: 0 auto;
-}
-
 .fulllogo {
+  position: relative;
   display: block;
   width: 170px;
   overflow: auto;
