@@ -39,8 +39,8 @@ nav {
 .glogo {
   width: 25px;
   position: fixed;
-  align-items: flex-start;
-  align: left;
+  left: 100%;
+  padding: 6px;
 }
 
 .searchBar input[type=text] {
