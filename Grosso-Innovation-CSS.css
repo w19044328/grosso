@@ -20,7 +20,7 @@ nav {
   font-size: 14px;
   font-family: "Andale Mono", sans-serif;
   text-decoration: none;
-  x-axis: 2;
+  x-axis: 1;
 }
 
 .topnav a.hover {
@@ -37,7 +37,7 @@ nav {
 }
 
 .glogo {
-  width: 25px;
+  width: 30px;
   position: fixed;
   left: 100%;
   padding: 6px;
@@ -81,7 +81,7 @@ body {
   height: 100%;
   width: 200px;
   position: fixed;
-  z-index: 1;
+  z-index: 2;
   background-color: #d2b48c;
   overflow: auto;
 }
