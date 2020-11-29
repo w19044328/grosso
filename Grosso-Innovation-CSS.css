@@ -38,7 +38,8 @@ nav {
 
 .glogo {
   width: 25px;
-  text-align: left;
+  position: fixed;
+  align-items: flex-start;
   margin-left: -110px;
 }
 
