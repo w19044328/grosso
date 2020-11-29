@@ -57,10 +57,11 @@ body {
 
 .fulllogo {
   display: block;
-  width: 10px;
+  width: 170px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 35px;
+  z-index: 1;
 }
 
 .sidenav {
