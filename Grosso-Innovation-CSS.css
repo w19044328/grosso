@@ -40,7 +40,7 @@ nav {
   width: 25px;
   position: fixed;
   align-items: flex-start;
-  margin-left: -110px;
+  align: left;
 }
 
 .searchBar input[type=text] {
