@@ -5,6 +5,8 @@ head {
 
 nav {
   display: block;
+  position: fixed;
+  width: 100%;
   background-color: #d2b48c;
   overflow: hidden;
   text-decoration: none;
@@ -30,13 +32,13 @@ nav {
 }
 
 .topnav a.active {
-  background-colour: #d2b48c;
+  background-color: #d2b48c;
   color: #dcedc8;
   text-decoration: underline;
 }
 
 .glogo {
-  width: 40px;
+  width: 32px;
   position: fixed;
   right: 85%;
   padding: 1px;
