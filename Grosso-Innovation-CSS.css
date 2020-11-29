@@ -58,6 +58,7 @@ body {
 .fulllogo {
   display: block;
   width: 170px;
+  overflow: auto;
   margin-left: auto;
   margin-right: auto;
   margin-top: 35px;
