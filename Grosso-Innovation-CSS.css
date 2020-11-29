@@ -8,7 +8,7 @@ nav {
   background-color: #d2b48c;
   overflow: hidden;
   text-decoration: none;
-  z-index: 3;
+  z-index: 1;
 }
 
 .topnav a {
@@ -20,7 +20,6 @@ nav {
   font-size: 14px;
   font-family: "Andale Mono", sans-serif;
   text-decoration: none;
-  x-axis: 1;
 }
 
 .topnav a.hover {
