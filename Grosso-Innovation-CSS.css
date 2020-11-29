@@ -55,6 +55,10 @@ body {
   background-color: #ECECEC;
 }
 
+#homepageContent {
+  margin: 0 auto;
+}
+
 .fulllogo {
   display: block;
   width: 170px;
