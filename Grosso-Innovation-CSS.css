@@ -8,6 +8,7 @@ nav {
   background-color: #d2b48c;
   overflow: hidden;
   text-decoration: none;
+  z-index: 3;
 }
 
 .topnav a {
@@ -19,6 +20,7 @@ nav {
   font-size: 14px;
   font-family: "Andale Mono", sans-serif;
   text-decoration: none;
+  x-axis: 2;
 }
 
 .topnav a.hover {
@@ -63,7 +65,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 35px;
-  z-index: 2;
+  z-index: 3;
 }
 
 .sidenav div {
