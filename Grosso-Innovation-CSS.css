@@ -6,6 +6,7 @@ head {
 nav {
   display: block;
   position: fixed;
+  padding: 5px;
   width: 100%;
   background-color: #d2b48c;
   overflow: hidden;
@@ -38,10 +39,9 @@ nav {
 }
 
 .glogo {
-  width: 32px;
+  width: 30px;
   position: fixed;
   right: 85%;
-  padding: 1px;
 }
 
 .searchBar input[type=text] {
