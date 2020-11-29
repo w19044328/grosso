@@ -36,10 +36,10 @@ nav {
 }
 
 .glogo {
-  width: 30px;
+  width: 40px;
   position: fixed;
-  left: 100%;
-  padding: 6px;
+  right: 85%;
+  padding: 1px;
 }
 
 .searchBar input[type=text] {
