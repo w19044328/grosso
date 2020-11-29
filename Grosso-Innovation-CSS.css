@@ -73,6 +73,7 @@ body {
   height: 5px;
   background-color: black;
   margin: 6px;
+  padding-top: 1px;
 }
 
 .sidenav {
