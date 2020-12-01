@@ -56,6 +56,10 @@ head {
   text-decoration: none;
 }
 
+#firstSideNavigationBar {
+  color: red;
+}
+
 body {
   background-color: #ECECEC;
   font-family: "Andale Mono", sans-serif;
