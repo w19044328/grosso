@@ -41,7 +41,7 @@ head {
 .glogo {
   width: 28px;
   position: fixed;
-  right: 97%;
+  right: 97vw;
 }
 
 .searchBar input[type=text] {
@@ -56,16 +56,12 @@ head {
   text-decoration: none;
 }
 
-#firstSideNavigationBar a {
-  font-family: "Andale Mono", sans-serif;
-}
-
 body {
   background-color: #ECECEC;
   font-family: "Andale Mono", sans-serif;
 }
 
-#firstSideNavigationBar a {
+.sidenav #firstSideNavigationBar a {
   font-family: "Andale Mono", sans-serif;
 }
 
