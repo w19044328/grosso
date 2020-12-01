@@ -1,5 +1,4 @@
 head {
-    font-family: "Andale Mono", sans-serif;
     display: block;
 }
 
@@ -94,6 +93,7 @@ body {
   color: black;
   padding: 16px;
   text-decoration: none;
+  font-size: 14px;
   font-family: "Andale Mono", sans-serif;
 }
 
@@ -113,10 +113,6 @@ div.content {
   margin-left: 200px;
   padding: 1px 16px;
   height: 1000px;
-}
-
-#firstSideNavigationBar {
-  font-family: "Andale Mono", sans-serif;
 }
 
 @media screen and (max-width: 400px) {
