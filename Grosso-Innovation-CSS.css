@@ -59,6 +59,7 @@ head {
 
 body {
   background-color: #ECECEC;
+  font-family: "Andale Mono", sans-serif;
 }
 
 .fulllogo {
@@ -86,7 +87,6 @@ body {
   background-color: #d2b48c;
   overflow: auto;
   padding-top: 50px;
-  font-family: "Andale Mono", sans-serif;
 }
 
 .sidenav a {
