@@ -59,7 +59,11 @@ head {
 
 body {
   background-color: #ECECEC;
-  font-family: monospace;
+  font-family: sans-serif;
+}
+
+#firstSideNavigationBar {
+  font-family: "Andale Mono", sans-serif;
 }
 
 .fulllogo {
@@ -106,7 +110,6 @@ body {
   background-color: #ECECEC;
   color: black;
   text-decoration: underline;
-  font-family: inherit;
 }
 
 div.content {
