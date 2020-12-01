@@ -71,6 +71,11 @@ body {
   z-index: 3;
 }
 
+#firstSideNavigationBar {
+  font-family: "Andale Mono", sans-serif;
+  color: pink;
+}
+
 .sidenav div {
   width: 35px;
   height: 5px;
