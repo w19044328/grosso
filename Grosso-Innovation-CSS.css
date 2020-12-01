@@ -86,6 +86,7 @@ body {
   background-color: #d2b48c;
   overflow: auto;
   padding-top: 50px;
+  font-family: "Andale Mono", sans-serif;
 }
 
 .sidenav a {
