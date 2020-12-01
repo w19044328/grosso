@@ -65,6 +65,10 @@ body {
   font-family: "Andale Mono", sans-serif;
 }
 
+#firstSideNavigationBar a {
+  font-family: "Andale Mono", sans-serif;
+}
+
 .fulllogo {
   display: block;
   height: auto;
