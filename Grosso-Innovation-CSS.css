@@ -56,7 +56,7 @@ head {
   text-decoration: none;
 }
 
-.checkOutBasket div {
+.checkOutBasket {
   display: block;
   height: auto;
   width: 170px;
