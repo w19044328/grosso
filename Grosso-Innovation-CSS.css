@@ -56,6 +56,16 @@ head {
   text-decoration: none;
 }
 
+.checkOutBasket div {
+  display: block;
+  height: auto;
+  width: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  z-index: 5;
+}
+
 body {
   background-color: #ECECEC;
   font-family: "Andale Mono", sans-serif;
@@ -66,16 +76,6 @@ body {
 }
 
 .fulllogo {
-  display: block;
-  height: auto;
-  width: 170px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 35px;
-  z-index: 3;
-}
-
-.checkOutBasket {
   display: block;
   height: auto;
   width: 170px;
