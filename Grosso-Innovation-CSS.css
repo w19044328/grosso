@@ -125,6 +125,16 @@ div.content {
     float: none;
 }
 
+.checkOutTrolley {
+  display: block;
+  height: auto;
+  width: 170px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+  z-index: 3;
+}
+
 #mySideNav a {
   position: absolute;
   left: -200px;
