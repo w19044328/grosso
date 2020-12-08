@@ -75,14 +75,13 @@ body {
   z-index: 3;
 }
 
-.checkOutBasket {
+.checkOutBasket #basket a {
   display: block;
   height: auto;
   width: 170px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  z-index: 5;
 }
 
 .sidenav div {
