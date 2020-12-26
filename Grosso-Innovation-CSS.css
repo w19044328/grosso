@@ -3,6 +3,8 @@ head {
 }
 
 .topnav {
+  position: fixed;
+  display: block;
   top: 0;
   padding: 10px;
   width: 100%;
@@ -15,8 +17,6 @@ head {
 .topnav a {
   color: black;
   float: right;
-  position: fixed;
-  display: block;
   text-align: center;
   padding: 15px 15px;
   font-size: 14px;
