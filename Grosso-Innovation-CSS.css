@@ -8,14 +8,14 @@ head {
   top: 0;
   padding: 6px;
   width: 100%;
-  background-color: #eedac2;
+  background-color: #ECECEC;
   overflow: hidden;
   text-decoration: none;
   z-index: 100;
 }
 
 .topnav a {
-  background-color: inherit;
+  background-color: #ECECEC;
   color: black;
   float: right;
   text-align: center;
@@ -64,6 +64,7 @@ body {
 
 .sidenav #firstSideNavigationBar a {
   font-family: "Andale Mono", sans-serif;
+  background-color: #ECECEC;
 }
 
 .fulllogo {
