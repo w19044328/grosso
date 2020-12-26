@@ -96,7 +96,7 @@ body {
   width: 200px;
   position: fixed;
   z-index: 2;
-  background-color: #F7EDE0;
+  background-color: #FFF7ED;
   overflow: auto;
   padding-top: 50px;
 }
@@ -111,13 +111,13 @@ body {
 }
 
 .sidenav a.active {
-  background-color: #ECECEC;
+  background-color: #FFF7ED;
   color: black;
   text-decoration: underline;
   }
 
 .sidenav a:hover:not(.active) {
-  background-color: #ECECEC;
+  background-color: #F7EDED;
   color: black;
   text-decoration: underline;
 }
