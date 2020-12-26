@@ -106,12 +106,6 @@ body {
   margin-top: 100px;
 }
 
-.sidenav div {
-  width: 35px;
-  height: 3px;
-  background-color: black;
-  margin: 6px;
-}
 
 .sidenav {
   height: 100%;
