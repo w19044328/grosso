@@ -37,6 +37,14 @@ head {
   text-decoration: underline;
 }
 
+
+.glogo {
+  width: 28px;
+  position: fixed;
+  right: 97vw;
+}
+
+
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
   .topnav a.icon {
@@ -55,13 +63,6 @@ head {
     display: block;
     text-align: left;
   }
-}
-
-
-.glogo {
-  width: 28px;
-  position: fixed;
-  right: 97vw;
 }
 
 .searchBar input[type=text] {
