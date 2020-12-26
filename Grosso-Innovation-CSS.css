@@ -8,7 +8,7 @@ head {
   top: 0;
   padding: 6px;
   width: 100%;
-  background-color: #d2b48c;
+  background-color: #eedac2;
   overflow: hidden;
   text-decoration: none;
   z-index: 100;
@@ -29,6 +29,7 @@ head {
   background-color: #eedac2;
   color: black;
   text-decoration: underline;
+  text-decoration-color: #d2b48c;
   font-weight: bold;
 }
 
