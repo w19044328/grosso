@@ -107,6 +107,13 @@ body {
 }
 
 
+.sidenav div {
+  width: 35px;
+  height: 3px;
+  background-color: black;
+  margin: 6px;
+}
+
 .sidenav {
   height: 100%;
   width: 200px;
@@ -136,12 +143,6 @@ body {
   background-color: white;
   color: black;
   text-decoration: underline;
-}
-
-div.content {
-  margin-left: 200px;
-  padding: 1px 16px;
-  height: 1000px;
 }
 
 @media screen and (max-width: 400px) {
