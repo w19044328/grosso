@@ -221,13 +221,11 @@ div.content {
 
 /*LOG ON FORM FORMAT */
 /* Bordered form */
-div.container {
+div.container p {
   display: block;
   position: relative;
   width: auto;
   height: auto;
-  top: 50%;
-  left: 50%;
   margin: -100px 0 0 150px;
   background: red;
 }
