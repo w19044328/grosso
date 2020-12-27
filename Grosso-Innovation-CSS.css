@@ -280,13 +280,12 @@ img.avatar {
 
 /* Add padding to containers */
 .container {
- padding: 16px;
+ padding: 16px 50px 50px 100px;
 }
 
 /* The "Forgot password" text */
 span.psw {
  float: right;
- padding-top: 16px;
 }
 
 /* Change styles for span and cancel button on extra small screens */
