@@ -262,6 +262,7 @@ button:hover {
 .imgcontainer {
  text-align: center;
  margin: 24px 0 12px 0;
+ top: 50px;
 }
 
 /* Avatar image */
@@ -290,4 +291,4 @@ span.psw {
  .cancelbtn {
    width: 100%;
  }
-} 
+}
