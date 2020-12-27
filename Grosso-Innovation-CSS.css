@@ -125,6 +125,14 @@ body {
 
 /*LOG ON FORM FORMAT */
 /* Bordered form */
+
+div {
+  margin: auto;
+  width: 100px;
+  height: 140px;
+  outline-style: groove;
+}
+
 .logOnContainer {
   display: block;
   padding-top: 60px;
