@@ -195,6 +195,11 @@ div.psw {
  padding-top: 430px;
 }
 
+psw:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
 /* Change styles for span and cancel button on extra small screens */
 @media screen and (max-width: 300px) {
  span.psw {
