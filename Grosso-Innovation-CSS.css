@@ -127,10 +127,10 @@ body {
 /* Bordered form */
 
 div {
+  padding-top: 50px;
   margin: auto;
-  width: 100px;
-  height: 140px;
-  outline-style: groove;
+  width: 400px;
+  height: 150px;
 }
 
 .logOnContainer {
