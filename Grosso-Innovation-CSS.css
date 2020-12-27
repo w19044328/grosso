@@ -223,6 +223,10 @@ div.content {
 /* Bordered form */
 form {
  border: 3px solid #f1f1f1;
+ left: 50vh;
+ right: 50vh;
+ top: 50vh;
+ bottom: 50vh;
 }
 
 /* Full-width inputs */
