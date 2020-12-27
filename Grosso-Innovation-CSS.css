@@ -166,10 +166,12 @@ button:hover {
 }
 
 /* Extra style for the cancel button (red) */
-.cancelbtn {
+div.cancelbtn {
  width: auto;
  padding: 10px 18px;
  background-color: #f44336;
+ justify-content: center;
+ padding-top: 430px;
 }
 
 /* Center the avatar image inside this container */
@@ -189,8 +191,9 @@ img.avatar {
 
 
 /* The "Forgot password" text */
-span.psw {
+div.psw {
  float: right;
+ padding-top: 430px;
 }
 
 /* Change styles for span and cancel button on extra small screens */
