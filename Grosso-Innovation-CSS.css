@@ -221,8 +221,7 @@ div.content {
 
 /*LOG ON FORM FORMAT */
 /* Bordered form */
-<div>
-.form {
+div.form {
   display: block;
   position: absolute;
   width: auto;
@@ -232,9 +231,7 @@ div.content {
   margin: -100px 0 0 150px;
   background: green;
 }
-</div>
-
-.form {
+form {
  display: inline-block;
  margin-left: auto;
  margin-right: auto;
