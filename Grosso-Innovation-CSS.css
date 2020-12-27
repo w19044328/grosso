@@ -195,7 +195,7 @@ div.psw {
  padding-top: 430px;
 }
 
-psw:hover {
+div:hover {
   opacity: 0.8;
   text-decoration: underline;
 }
