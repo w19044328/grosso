@@ -224,9 +224,9 @@ div.content {
 div.container p {
   display: block;
   position: relative;
+  vertical-align: center;
   width: auto;
   height: auto;
-  margin: -100px 0 0 150px;
   background: red;
 }
 
