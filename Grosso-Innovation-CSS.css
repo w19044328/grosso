@@ -130,7 +130,7 @@ body {
   padding-top: 40px;
   justify-content: center;
   position: relative;
-  background: red;
+  background: #F7EDE0;
 }
 
 /* Full-width inputs */
@@ -143,7 +143,7 @@ input[type=text], input[type=password] {
 
 /* Set a style for all buttons */
 button {
- background-color: #4CAF50;
+ background-color: #77815C;
  color: white;
  padding: 14px 20px;
  margin: 8px 0;
