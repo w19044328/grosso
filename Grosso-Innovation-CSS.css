@@ -222,11 +222,9 @@ div.content {
 /*LOG ON FORM FORMAT */
 /* Bordered form */
 .logOnContainer {
-  display: block;
+  display: flex;
+  justify-content: center;
   position: relative;
-  vertical-align: center;
-  width: auto;
-  height: auto;
   background: red;
 }
 
