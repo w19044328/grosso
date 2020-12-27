@@ -166,7 +166,7 @@ button:hover {
 }
 
 /* Extra style for the cancel button (red) */
-div.cancelbtn {
+.cancelbtn {
  width: auto;
  padding: 10px 18px;
  background-color: #f44336;
