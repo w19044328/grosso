@@ -107,13 +107,14 @@ body {
   margin-top: 100px;
 }
 
-
+/*
 .sidenav div {
   width: 35px;
   height: 3px;
   background-color: black;
   margin: 6px;
 }
+*/
 
 .sidenav {
   height: 100%;
@@ -121,8 +122,8 @@ body {
   position: fixed;
   z-index: 2;
   background-color: #FFF7ED;
-  overflow: auto;
-  padding-top: 50px;
+  overflow-x: hidden;
+  padding-top: 30px;
 }
 
 .sidenav a {
@@ -145,12 +146,13 @@ body {
   color: black;
   text-decoration: underline;
 }
-
+/*
 div.content {
   margin-left: 200px;
   padding: 1px 16px;
   height: 1000px;
 }
+*/
 
 @media screen and (max-width: 400px) {
   .sidebar a {
