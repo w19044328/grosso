@@ -2,6 +2,7 @@ head {
     display: block;
 }
 
+
 .topnav {
   position: fixed;
   display: block;
@@ -125,7 +126,8 @@ body {
 /*LOG ON FORM FORMAT */
 /* Bordered form */
 .logOnContainer {
-  display: flex;
+  display: block;
+  padding-top: 40px;
   justify-content: center;
   position: relative;
   background: red;
