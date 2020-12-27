@@ -224,6 +224,8 @@ div.content {
 div.form{
   display: block;
   text-align: center;
+  position: relative;
+  align-self: center;
 }
 form {
  display: inline-block;
