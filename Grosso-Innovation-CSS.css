@@ -223,7 +223,7 @@ div.content {
 /* Bordered form */
 div.container {
   display: block;
-  position: absolute;
+  position: relative;
   width: auto;
   height: auto;
   top: 50%;
@@ -233,7 +233,7 @@ div.container {
 }
 
 form {
- display: inline-block;
+ position: absolute;
  margin-left: auto;
  margin-right: auto;
  text-align: left;
