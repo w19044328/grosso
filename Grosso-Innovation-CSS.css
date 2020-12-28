@@ -155,7 +155,7 @@ button {
  color: white;
  padding: 14px 20px;
  margin: 8px 0;
- border: none;
+ border: none
  cursor: pointer;
  width: auto;
 }
@@ -166,16 +166,18 @@ button:hover {
 }
 
 /* Extra style for the cancel button (red) */
-.cancelbtn {
+.createaccount {
  width: auto;
  background-color: #f44336;
+ font-size: 14px;
+ font-family: "Andale Mono", sans-serif;
 }
 
 /* Center the avatar image inside this container */
 .imgcontainer {
  text-align: center;
  margin: 24px 0 12px 0;
- top: 50px;
+ top: 100px;
 }
 
 /* Avatar image */
@@ -204,8 +206,9 @@ div:hover {
    display: block;
    float: none;
  }
- .cancelbtn {
+ .createaccount {
    width: 100%;
+   text: Andale;
  }
 }
 .sidenav {
