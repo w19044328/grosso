@@ -154,11 +154,12 @@ label:hover {
 .psw {
   font-style: "Andale Mono", sans-serif;
   font-size: 14px;
+  pointer: cursor;
+  text-decoration: underline;
 }
 
 .psw:hover {
   opacity: 0.8;
-  pointer: cursor;
 }
 
 /* Full-width inputs */
