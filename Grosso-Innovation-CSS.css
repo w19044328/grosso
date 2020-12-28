@@ -145,6 +145,7 @@ div.logOnContainer {
 label {
   font-style: "Andale Mono", sans-serif;
   font-size: 14px;
+  cursor: pointer;
 }
 
 label:hover {
