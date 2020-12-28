@@ -140,6 +140,15 @@ div.logOnContainer {
   position: center;
 }
 
+div {
+    background: #F7F7F7;
+}
+
+label {
+  font-style: "Andale Mono", sans-serif;
+  font-size: 14px;
+}
+
 /* Full-width inputs */
 input[type=text], input[type=password] {
  width: 100%;
