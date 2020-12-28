@@ -12,10 +12,10 @@
     </head>
     <nav class="topnav">
       <ol>
-      <a class="topnav"><a href="Our Story">Our Story</a></li>
+      <!-- <a class="topnav"><a href="Our Story">Our Story</a></li> -->
       <a href="topnav"><a href="Contact Us">Contact Us</a></li>
       <a href="topnav"><a href="Check Out">Check Out</a></li>
-      <a href="topnav"><a href="Sign In">Basket</a></li>
+      <a href="topnav"><a href="Account">Basket</a></li>
       <a href="topnav">
         <div class="glogo">
           <img src="/beanAsset.png" alt="Grosso Logo" class="glogo">
@@ -24,12 +24,17 @@
     </nav>
 
     <body>
+      <form id="login-form">
+        <input type="text" name="username" id="username-field" class="login-form-field">
+        <input type="password" name="password" id="password-field" class="login-form-field">
+        <input type="submit" value="login" id="login-form-submit">
+      </form>
 
  <div class="logOnContainer">
    <label for="uname"><a>Username</a></label>
    <input type="text" placeholder="Enter Username" name="uname" required>
 
-   <label for="psw"><a>Password</a></label>
+   <a class="logOnContainer"><label for="psw"><a>Password</a></label>
    <input type="password" placeholder="Enter Password" name="psw" required>
 
    <button type="submit">Login</button>
