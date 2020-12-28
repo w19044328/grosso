@@ -192,10 +192,10 @@ button:hover {
 }
 
 /* Extra style for the cancel button (red) */
-.createaccount {
+button.createaccount {
  width: auto;
  height: 50px;
- background-color: pink;
+ background-color: #B38B6D;
  font-size: 14px;
 }
 
