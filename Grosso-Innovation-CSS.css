@@ -138,13 +138,16 @@ div.logOnContainer {
   padding-top: 60px;
   justify-content: center;
   position: center;
-}
-
-div {
-    background: #F7F7F7;
+  font-style: "Andale Mono", sans-serif;
+  font-size: 14px;
 }
 
 label {
+  font-style: "Andale Mono", sans-serif;
+  font-size: 14px;
+}
+
+.psw {
   font-style: "Andale Mono", sans-serif;
   font-size: 14px;
 }
