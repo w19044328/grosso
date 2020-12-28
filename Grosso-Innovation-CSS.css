@@ -147,9 +147,17 @@ label {
   font-size: 14px;
 }
 
+label:hover {
+  opacity: 0.8;
+}
+
 .psw {
   font-style: "Andale Mono", sans-serif;
   font-size: 14px;
+}
+
+.psw:hover {
+  opacity: 0.8;
 }
 
 /* Full-width inputs */
@@ -187,6 +195,10 @@ button:hover {
  font-size: 14px;
 }
 
+.createaccount:hover {
+  opacity: 0.8;
+}
+
 /* Center the avatar image inside this container */
 .imgcontainer {
  text-align: center;
@@ -209,7 +221,7 @@ div.psw {
  padding-top: 430px;
 }
 
-div:hover {
+div.psw:hover {
   opacity: 0.8;
   text-decoration: underline;
 }
