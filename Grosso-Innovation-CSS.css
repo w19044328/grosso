@@ -154,7 +154,7 @@ label:hover {
 .psw {
   font-style: "Andale Mono", sans-serif;
   font-size: 14px;
-  pointer: cursor;
+  cursor: pointer;
   text-decoration: underline;
 }
 
@@ -236,9 +236,11 @@ div.psw:hover {
  }
  .createaccount {
    width: 100%;
-   text: Andale;
+   font-style: "Andale Mono", sans-serif;
+   font-size: 14px;
  }
 }
+
 .sidenav {
   height: 100%;
   width: 200px;
