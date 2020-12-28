@@ -127,7 +127,7 @@ body {
 /* Bordered form */
 
 div.logOnContainer {
-  padding-top: 50px;
+  padding-top: 100px;
   margin: auto;
   width: 400px;
   height: 150px;
@@ -135,7 +135,7 @@ div.logOnContainer {
 
 .logOnContainer {
   display: block;
-  padding-top: 60px;
+  padding-top: 100px;
   justify-content: center;
   position: center;
   font-style: "Andale Mono", sans-serif;
