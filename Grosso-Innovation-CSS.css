@@ -158,6 +158,7 @@ label:hover {
 
 .psw:hover {
   opacity: 0.8;
+  pointer: cursor;
 }
 
 /* Full-width inputs */
