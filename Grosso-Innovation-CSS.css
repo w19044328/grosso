@@ -80,7 +80,7 @@ head {
 }
 
 body {
-  background-color: #F9F9F9;
+  background-color: #F7F7F7;
   font-family: "Andale Mono", sans-serif;
 }
 
@@ -135,10 +135,9 @@ div.logOnContainer {
 
 .logOnContainer {
   display: block;
-  padding-top: 100px;
+  padding-top: 60px;
   justify-content: center;
   position: center;
-  background: #F7F7F7;
 }
 
 /* Full-width inputs */
