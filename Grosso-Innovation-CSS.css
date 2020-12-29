@@ -42,7 +42,6 @@ head {
 .glogo {
   position: absolute;
   width: 28px;
-  position: fixed;
   right: 97vw;
 }
 
