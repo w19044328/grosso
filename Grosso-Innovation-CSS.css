@@ -37,7 +37,6 @@ navbarhead {
   text-decoration: underline;
 }
 
-
 .navbar-brand {
   position: fixed;
   width: 28px;
@@ -49,8 +48,7 @@ navbarhead {
   position: fixed;
   display: block;
   width: 25%;
-  left: 10%;
-  /* 200px because sidenav is 200px wide*/
+  height: 10px;
   margin-left: auto;
   margin-right: auto;
   border: #d2b48c;
