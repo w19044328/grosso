@@ -47,7 +47,7 @@ head {
 
 
 .searchBar input[type=text] {
-  float: right;
+  position:fixed;
   display: block;
   width: 25%;
   left: 200px;
