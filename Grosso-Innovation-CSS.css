@@ -17,7 +17,6 @@ navbarhead {
 
 .navbar a {
   color: black;
-  float: right;
   text-align: center;
   padding: 15px 15px;
   font-size: 14px;
@@ -40,17 +39,17 @@ navbarhead {
 
 
 .navbar-brand {
-  position: absolute;
+  position: fixed;
   width: 28px;
   right: 97vw;
 }
 
 
 .searchBar input[type=text] {
-  position:fixed;
+  position: fixed;
   display: block;
   width: 25%;
-  left: 200px;
+  left: 10%;
   /* 200px because sidenav is 200px wide*/
   margin-left: auto;
   margin-right: auto;
@@ -61,7 +60,7 @@ navbarhead {
   text-decoration: none;
 }
 
-
+/*
 @media screen and (max-width: 600px) {
   .navbar a:not(:first-child) {display: none;}
   .navbar a.icon {
@@ -81,6 +80,7 @@ navbarhead {
     text-align: left;
   }
 }
+*/
 
 body {
   background-color: #F7F7F7;
