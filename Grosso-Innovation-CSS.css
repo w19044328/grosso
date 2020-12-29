@@ -93,6 +93,7 @@ body {
 }
 
 .fulllogo {
+  position: fixed;
   display: block;
   height: auto;
   width: 170px;
