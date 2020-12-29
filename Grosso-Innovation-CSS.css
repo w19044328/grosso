@@ -1,7 +1,8 @@
+/*
 navbarhead {
     display: block;
 }
-
+*/
 
 .navbar {
   position: fixed;
@@ -63,8 +64,8 @@ navbarhead {
 .glogo {
   position: fixed;
   display: block;
-  padding: 1%;
-  width: 4%;
+  padding: 2vh;
+  width: 4vh;
 }
 
 /*
