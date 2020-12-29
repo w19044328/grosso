@@ -47,8 +47,11 @@ head {
 
 
 .searchBar input[type=text] {
-  float: center;
+  float: right;
   display: block;
+  width: 25%;
+  left: 200px;
+  /* 200px because sidenav is 200px wide*/
   margin-left: auto;
   margin-right: auto;
   border: #d2b48c;
