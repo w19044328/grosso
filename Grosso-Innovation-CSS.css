@@ -1,8 +1,7 @@
-/*
 navbarhead {
     display: block;
+    position: fixed;
 }
-*/
 
 .navbar {
   position: fixed;
