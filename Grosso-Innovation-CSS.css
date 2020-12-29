@@ -94,6 +94,7 @@ body {
 
 .fulllogo {
   position: absolute;
+  left: 50%;
   display: block;
   height: auto;
   width: 170px;
