@@ -4,16 +4,15 @@ navbarhead {
 
 
 .navbar {
-  position: absolute;
+  position: fixed;
   display: block;
   top: 0;
   padding: 10px;
   width: 100%;
   background-color: #F7EDE0;
-  overflow: visible;
-  margin-left: auto;
-  margin-right: auto;
-  z-index: 1;
+  overflow: hidden;
+  text-decoration: none;
+  z-index: 100;
 }
 
 .navbar a {
