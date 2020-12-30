@@ -43,7 +43,8 @@ head {
 
 .breadcrumb {
   position: absolute;
-  align-content: center;
+  align-content: left;
+  padding-left: 200px;
 }
 
 .searchBar input[type=text] {
