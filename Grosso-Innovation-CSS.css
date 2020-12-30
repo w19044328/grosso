@@ -1,29 +1,30 @@
-navbarhead {
+head {
     display: block;
-    position: fixed;
 }
 
-.navbar {
+
+.topnav {
   position: fixed;
   display: block;
   top: 0;
   padding: 10px;
   width: 100%;
   background-color: #F7EDE0;
-  overflow: visible;
+  overflow: hidden;
   text-decoration: none;
   z-index: 100;
 }
 
-.navbar a {
+.topnav a {
   color: black;
+  float: right;
   text-align: center;
   padding: 15px 15px;
   font-size: 14px;
   font-family: "Andale Mono", sans-serif;
 }
 
-.navbar a.hover {
+.topnav a.hover {
   background-color: #eedac2;
   color: black;
   text-decoration: underline;
@@ -31,25 +32,27 @@ navbarhead {
   font-weight: bold;
 }
 
-.navbar a.active {
+.topnav a.active {
   background-color: #d2b48c;
   color: #dcedc8;
   text-decoration: underline;
 }
 
 .navbar-brand {
-  position: fixed;
+  padding: 2px;
+}
+
+
+.glogo {
   width: 28px;
+  position: fixed;
   right: 97vw;
 }
 
 
 .searchBar input[type=text] {
-  position: fixed;
+  float: center;
   display: block;
-  width: 25%;
-  height: 10px;
-  left: 200px;
   margin-left: auto;
   margin-right: auto;
   border: #d2b48c;
@@ -59,37 +62,29 @@ navbarhead {
   text-decoration: none;
 }
 
-.glogo {
-  position: fixed;
-  display: block;
-  padding: 2vh;
-  width: 4vh;
-}
 
-/*
 @media screen and (max-width: 600px) {
-  .navbar a:not(:first-child) {display: none;}
-  .navbar a.icon {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
     float: right;
     display: block;
   }
 }
 @media screen and (mac-width: 600px) {
-  .navbar.responsive {position: relative;}
+  .topnav.responsive {position: relative;}
   position: absolute;
   right: 0;
   top:0;
 }
-  .navbar.responsive a {
+  .topnav.responsive a {
     float: none;
     display: block;
     text-align: left;
   }
 }
-*/
 
 body {
-  background-color: #F7F7F7;
+  background-color: #F9F9F9;
   font-family: "Andale Mono", sans-serif;
 }
 
@@ -99,14 +94,12 @@ body {
 }
 
 .fulllogo {
-  position: absolute;
-  left: 50%;
   display: block;
   height: auto;
   width: 170px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 100px;
+  margin-top: 35px;
   z-index: 3;
 }
 
@@ -138,7 +131,7 @@ body {
 /* Bordered form */
 
 div.logOnContainer {
-  padding-top: 100px;
+  padding-top: 50px;
   margin: auto;
   width: 400px;
   height: 150px;
@@ -146,32 +139,10 @@ div.logOnContainer {
 
 .logOnContainer {
   display: block;
-  padding-top: 100px;
+  padding-top: 60px;
   justify-content: center;
   position: center;
-  font-style: "Andale Mono", sans-serif;
-  font-size: 14px;
-}
-
-label {
-  font-style: "Andale Mono", sans-serif;
-  font-size: 14px;
-  cursor: pointer;
-}
-
-label:hover {
-  opacity: 0.8;
-}
-
-.psw {
-  font-style: "Andale Mono", sans-serif;
-  font-size: 14px;
-  cursor: pointer;
-  text-decoration: underline;
-}
-
-.psw:hover {
-  opacity: 0.8;
+  background: #F7F7F7;
 }
 
 /* Full-width inputs */
@@ -180,8 +151,6 @@ input[type=text], input[type=password] {
  display: inline-block;
  border: 1px solid #ccc;
  box-sizing: border-box;
- font-size: 14px;
- font-family: "Andale Mono", sans-serif;
 }
 
 /* Set a style for all buttons */
@@ -190,11 +159,9 @@ button {
  color: white;
  padding: 14px 20px;
  margin: 8px 0;
- border: none
+ border: none;
  cursor: pointer;
  width: auto;
- font-size: 14px;
- font-family: "Andale Mono", sans-serif;
 }
 
 /* Add a hover effect for buttons */
@@ -203,22 +170,16 @@ button:hover {
 }
 
 /* Extra style for the cancel button (red) */
-.createaccount {
+.cancelbtn {
  width: auto;
- height: 50px;
- background-color: #B38B6D;
- font-size: 14px;
-}
-
-.createaccount:hover {
-  opacity: 0.8;
+ background-color: #f44336;
 }
 
 /* Center the avatar image inside this container */
 .imgcontainer {
  text-align: center;
  margin: 24px 0 12px 0;
- top: 100px;
+ top: 50px;
 }
 
 /* Avatar image */
@@ -236,26 +197,21 @@ div.psw {
  padding-top: 430px;
 }
 
-div.psw:hover {
+div:hover {
   opacity: 0.8;
   text-decoration: underline;
 }
 
 /* Change styles for span and cancel button on extra small screens */
-/*
 @media screen and (max-width: 300px) {
  span.psw {
    display: block;
    float: none;
  }
- .createaccount {
+ .cancelbtn {
    width: 100%;
-   font-style: "Andale Mono", sans-serif;
-   font-size: 14px;
  }
 }
-*/
-
 .sidenav {
   height: 100%;
   width: 200px;
