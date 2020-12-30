@@ -2,15 +2,7 @@ head {
     display: block;
 }
 
-.container {
-  display: flex;
-  flex-direction: row;
-  justify-content: flex-end;
-  align-items: baseline;
-  z-index: 1;
-}
-
-.navbarNav {
+.navbar-nav {
   position: fixed;
   display: block;
   top: 0;
@@ -22,7 +14,7 @@ head {
   z-index: 100;
 }
 
-.navbarNav a {
+.navbar-nav a {
   color: black;
   float: right;
   text-align: center;
@@ -31,7 +23,7 @@ head {
   font-family: "Andale Mono", sans-serif;
 }
 
-.navbarNav a.hover {
+.navbar-nav a.hover {
   background-color: #eedac2;
   color: black;
   text-decoration: underline;
@@ -39,7 +31,7 @@ head {
   font-weight: bold;
 }
 
-.navbarNav a.active {
+.navbar-nav a.active {
   background-color: #d2b48c;
   color: #dcedc8;
   text-decoration: underline;
