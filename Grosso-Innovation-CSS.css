@@ -3,7 +3,7 @@ head {
 }
 
 .navbar {
-  position: fixed;
+  position: absolute;
   display: block;
   top: 0;
   padding: 10px;
@@ -15,9 +15,8 @@ head {
 }
 
 .navbar a {
-  color: pink;
+  color: black;
   float: right;
-  text-align: center;
   padding: 15px 15px;
   font-size: 14px;
   font-family: "Andale Mono", sans-serif;
