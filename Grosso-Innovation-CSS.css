@@ -7,12 +7,12 @@ head {
   flex-direction: row;
   justify-content: flex-end;
   align-items: baseline;
+  z-index: 1;
 }
 
 .navbarNav {
   position: fixed;
   display: block;
-
   top: 0;
   padding: 10px;
   width: 100%;
