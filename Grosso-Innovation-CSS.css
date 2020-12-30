@@ -41,15 +41,9 @@ head {
   position: absolute;
 }
 
-.checkout {
-  flex-direction: row;
-  justify-content: flex-end;
-  align-items: baseline;
-}
-
-.basket {
+.breadcrumb {
   position: absolute;
-
+  align-content: center;
 }
 
 .searchBar input[type=text] {
