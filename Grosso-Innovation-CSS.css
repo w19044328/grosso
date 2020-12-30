@@ -3,7 +3,7 @@ head {
 }
 
 
-.topnav {
+.navbarNav {
   position: fixed;
   display: block;
   top: 0;
@@ -15,7 +15,7 @@ head {
   z-index: 100;
 }
 
-.topnav a {
+.navbarNav a {
   color: black;
   float: right;
   text-align: center;
@@ -24,7 +24,7 @@ head {
   font-family: "Andale Mono", sans-serif;
 }
 
-.topnav a.hover {
+.navbarNav a.hover {
   background-color: #eedac2;
   color: black;
   text-decoration: underline;
@@ -32,7 +32,7 @@ head {
   font-weight: bold;
 }
 
-.topnav a.active {
+.navbarNav a.active {
   background-color: #d2b48c;
   color: #dcedc8;
   text-decoration: underline;
