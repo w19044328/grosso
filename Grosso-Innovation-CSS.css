@@ -6,6 +6,7 @@ head {
 .navbarNav {
   position: fixed;
   display: block;
+
   top: 0;
   padding: 10px;
   width: 100%;
@@ -40,13 +41,7 @@ head {
 
 .navbar-brand {
   padding: 5px 5px 5px 5px;
-}
-
-
-.glogo {
-  width: 28px;
-  position: fixed;
-  right: 97vw;
+  position: absolute;
 }
 
 
