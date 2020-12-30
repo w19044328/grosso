@@ -45,6 +45,7 @@ head {
   position: absolute;
   align-content: left;
   padding-left: 200px;
+  padding-top: 50%
 }
 
 .searchBar input[type=text] {
