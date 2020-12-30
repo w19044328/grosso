@@ -2,7 +2,7 @@ head {
     display: block;
 }
 
-.navbar-nav {
+.navbar {
   position: fixed;
   display: block;
   top: 0;
@@ -14,8 +14,8 @@ head {
   z-index: 100;
 }
 
-.navbar-nav a {
-  color: black;
+.navbar a {
+  color: pink;
   float: right;
   text-align: center;
   padding: 15px 15px;
@@ -23,7 +23,7 @@ head {
   font-family: "Andale Mono", sans-serif;
 }
 
-.navbar-nav a.hover {
+.navbar a.hover {
   background-color: #eedac2;
   color: black;
   text-decoration: underline;
@@ -31,7 +31,7 @@ head {
   font-weight: bold;
 }
 
-.navbar-nav a.active {
+.navbar a.active {
   background-color: #d2b48c;
   color: #dcedc8;
   text-decoration: underline;
