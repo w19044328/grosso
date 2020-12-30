@@ -2,6 +2,9 @@ head {
     display: block;
 }
 
+.container {
+  display: flex;
+}
 
 .navbarNav {
   position: fixed;
@@ -44,6 +47,16 @@ head {
   position: absolute;
 }
 
+.checkout {
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+
+.basket {
+  position: absolute;
+
+}
 
 .searchBar input[type=text] {
   float: center;
