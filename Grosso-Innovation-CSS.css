@@ -4,7 +4,7 @@ head {
 
 .navbar-brand {
   position: fixed;
-  align-self: flex-start;
+  margin-left: 5px;
 }
 
 .navbar {
