@@ -42,7 +42,7 @@ head {
 }
 
 .form-inline {
-  position: absolute;
+  position: relative;
   margin-left: 200px;
   font-family: "Andale Mono", sans-serif;
   font-size: 14px;
