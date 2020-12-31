@@ -4,7 +4,6 @@ head {
 
 .navbar-brand {
   position: fixed;
-  margin-left: 5px;
 }
 
 .navbar {
@@ -98,6 +97,22 @@ body {
 .sidenav #firstSideNavigationBar a {
   font-family: "Andale Mono", sans-serif;
   background-color: #F7EDE0;
+}
+
+.groceries-submenu a {
+  font-family: "Andale Mono", sans-serif;
+}
+
+.groceries-submenu a.hover {
+  font-family: "Andale Mono", sans-serif;
+  background-color: white;
+  text-decoration: underline;
+}
+
+.groceries-submenu a.active {
+  font-family: "Andale Mono", sans-serif;
+  background-color: green;
+  text-decoration: underline;
 }
 
 .fulllogo {
