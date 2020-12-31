@@ -57,6 +57,12 @@ head {
   text-decoration: none;
 }
 
+.form-inline {
+  margin-right: 200px;
+  font-family: "Andale Mono", sans-serif;
+  font-size: 14px;
+}
+
 
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child) {display: none;}
