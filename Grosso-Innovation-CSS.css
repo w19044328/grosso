@@ -41,6 +41,13 @@ head {
   position: absolute;
 }
 
+.form-inline {
+  position: absolute;
+  margin-left: 200px;
+  font-family: "Andale Mono", sans-serif;
+  font-size: 14px;
+}
+
 .breadcrumb {
   position: absolute;
 }
@@ -55,12 +62,6 @@ head {
   font-size: 14px;
   font-family: "Andale Mono", sans-serif;
   text-decoration: none;
-}
-
-.form-inline {
-  margin-left: 200px;
-  font-family: "Andale Mono", sans-serif;
-  font-size: 14px;
 }
 
 
