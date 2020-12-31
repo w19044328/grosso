@@ -2,6 +2,11 @@ head {
     display: block;
 }
 
+.navbar-brand {
+  position: fixed;
+  align-self: flex-start;
+}
+
 .navbar {
   position: absolute;
   display: block;
