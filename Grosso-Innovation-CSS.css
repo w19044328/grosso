@@ -2,16 +2,6 @@ head {
     display: block;
 }
 
-.container {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-evenly;
-}
-
-.col-1 {
-  align-self: flex-start;
-}
-
 .navbar {
   position: absolute;
   display: block;
