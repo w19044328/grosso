@@ -98,12 +98,36 @@ body {
   font-family: "Andale Mono", sans-serif;
   background-color: #F7EDE0;
 }
+/*
+.dropdown_content {
+  line-height: 1;
+  position: absolute;
+  top:-100%;
+  background-color: #fff;
+  z-index:-10;
+  width: 120%;
+  left: -20%;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  transition: all 0.5s ease;
+}
+
+.dropdown:hover .dropdown_content {
+  top:100%;
+}
+*\
+
+.groceries-submenu {
+  visibility: hidden;
+  transform: scaleY();
+  transform-origin: 0 0;
+}
 
 .groceries-submenu a {
   font-family: "Andale Mono", sans-serif;
 }
 
-.groceries-submenu a.hover {
+.groceries-submenu a.hover.dropdown_content {
+  transform: scaleY(1);
   font-family: "Andale Mono", sans-serif;
   background-color: white;
   text-decoration: underline;
@@ -134,7 +158,8 @@ body {
   margin-top: 100px;
 }
 
-/*
+*/
+
 .sidenav div {
   width: 35px;
   height: 3px;
