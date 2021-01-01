@@ -118,7 +118,7 @@ body {
 
 .groceries-submenu {
   visibility: hidden;
-  transform: scaleY();
+  transform: scaleX();
   transform-origin: 0 0;
 }
 
@@ -127,7 +127,7 @@ body {
 }
 
 .groceries-submenu a.hover.dropdown_content {
-  transform: scaleY(1);
+  transform: scaleX(1);
   font-family: "Andale Mono", sans-serif;
   background-color: white;
   text-decoration: underline;
