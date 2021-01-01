@@ -118,7 +118,7 @@ body {
 
 .groceries-submenu {
   visibility: hidden;
-  transform: scaleX();
+  transform: scaleX(0);
   transform-origin: 0 0;
 }
 
